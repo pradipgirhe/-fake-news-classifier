@@ -28,3 +28,13 @@ This project uses machine learning to classify news articles as **Fake** or **Re
 
 ## 📁 Project Structure
 
+fake-news-classifier/
+│
+├── data/
+│ ├── Fake.csv
+│ └── True.csv
+│
+├── fake_news_classifier.ipynb # Main notebook
+├── requirements.txt # Required Python libraries
+├── README.md # Project documentation
+
